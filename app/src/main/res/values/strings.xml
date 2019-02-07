@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">UnitTestMockApp1</string>
+    <!--<string name="app_name">UnitTestMockApp1</string>-->
+    <string name="app_name" translatable="false">Temperature Converter</string>
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="hello_world" translatable="false">Hello world!</string>
+
+    <string name="celsius" translatable="false">to Celsius</string>
+    <string name="fahrenheit" translatable="false">to Fahrenheit</string>
+    <string name="calc" translatable="false">Calculate</string>
+
 </resources>
